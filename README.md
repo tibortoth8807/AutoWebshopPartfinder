@@ -1,6 +1,6 @@
 # PartFinder – VIN-based Car Parts Webshop
 
-[![CI](https://github.com/tibortoth8807/PartFinder/actions/workflows/ci.yml/badge.svg)](https://github.com/tibortoth8807/PartFinder/actions/workflows/ci.yml)
+[![CI](https://github.com/tibortoth8807/AutoWebshopPartfinder/actions/workflows/ci.yml/badge.svg)](https://github.com/tibortoth8807/AutoWebshopPartfinder/actions/workflows/ci.yml)
 ![.NET 10](https://img.shields.io/badge/.NET-10-512BD4?logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-20-DD0031?logo=angular&logoColor=white)
