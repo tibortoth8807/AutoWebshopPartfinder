@@ -1,0 +1,25 @@
+@baseUrl = http://localhost:8080
+
+### VIN: VW Golf IV, 2003 (EU VIN, no check digit)
+GET {{baseUrl}}/api/vin/WVWZZZ1JZ3W386752
+
+### VIN: Škoda Octavia II, 2008
+GET {{baseUrl}}/api/vin/TMBZZZ1ZZ8P012345
+
+### VIN: Opel Astra H, 2006
+GET {{baseUrl}}/api/vin/W0L0AHL4865012345
+
+### VIN: US Honda Accord (valid check digit, NHTSA enrichment, not in catalog)
+GET {{baseUrl}}/api/vin/1HGCM82633A004352
+
+### Invalid VIN (letter O)
+GET {{baseUrl}}/api/vin/WVWZZZ1JZ3WO86752
+
+### Vehicle selector
+GET {{baseUrl}}/api/vehicles/makes
+
+### Categories
+GET {{baseUrl}}/api/categories
+
+### Front brake discs for vehicle 2, cheapest first
+GET {{baseUrl}}/api/parts?vehicleId=2&diagramKey=brake-disc-front&sort=price

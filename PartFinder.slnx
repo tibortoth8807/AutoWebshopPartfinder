@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PartFinder.Core/PartFinder.Core.csproj" />
+    <Project Path="src/PartFinder.Infrastructure/PartFinder.Infrastructure.csproj" />
+    <Project Path="src/PartFinder.Api/PartFinder.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PartFinder.Tests/PartFinder.Tests.csproj" />
+  </Folder>
+</Solution>

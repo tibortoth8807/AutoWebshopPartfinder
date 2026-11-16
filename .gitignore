@@ -1,0 +1,19 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+TestResults/
+
+# Angular / Node
+node_modules/
+dist/
+.angular/
+out-tsc/
+
+# Editors / OS
+.idea/
+.vscode/*
+.DS_Store
+Thumbs.db
+.env

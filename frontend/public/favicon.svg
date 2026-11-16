@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- PartFinder logo: gear + magnifier, original artwork -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M26 6 l4 0 l1 6 a16 16 0 0 1 5 2 l5 -3.5 l3 3 l-3.5 5 a16 16 0 0 1 2 5 l6 1 l0 4 l-6 1 a16 16 0 0 1 -2 5 l3.5 5 l-3 3 l-5 -3.5 a16 16 0 0 1 -5 2 l-1 6 l-4 0 l-1 -6 a16 16 0 0 1 -5 -2 l-5 3.5 l-3 -3 l3.5 -5 a16 16 0 0 1 -2 -5 l-6 -1 l0 -4 l6 -1 a16 16 0 0 1 2 -5 l-3.5 -5 l3 -3 l5 3.5 a16 16 0 0 1 5 -2 z"
+          fill="#0f766e" stroke="#5eead4" stroke-width="1.5"/>
+    <circle cx="28" cy="28" r="8" fill="#0b1f2a" stroke="#5eead4" stroke-width="3"/>
+    <line x1="40" y1="40" x2="58" y2="58" stroke="#f59e0b" stroke-width="7"/>
+  </g>
+</svg>
